@@ -14,7 +14,7 @@ A personal portfolio website built using HTML, CSS and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://github.com/khushiish11/my---portfolio
+https://khushiish11.github.io/my---portfolio/
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/khushi-sharma-586b8b364
