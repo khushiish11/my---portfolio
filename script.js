@@ -12,7 +12,7 @@ window.addEventListener('scroll', function() {
 })
 
 let hero = document.querySelector('#typing')
-let text = "Hi , Im Khushi Sharma"
+let text = "Hi , I'm Khushi Sharma"
 let i = 0;
 
 hero.textContent = ""
